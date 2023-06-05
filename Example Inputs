@@ -1,1 +1,2 @@
-Deleted Example Inputs
+git rm Example Inputs
+git commit -m "remove Example Inputs"
